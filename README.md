@@ -24,7 +24,7 @@ The **ATM Management System** is a project developed using **8086 Assembly Langu
 
 2. **Clone the repository** or download the project files:
    ```bash
-   https://github.com/msameerr/ATM-Management-System.git
+   git clone https://github.com/msameerr/ATM-Management-System.git
 
 ## Contributing
 If you'd like to contribute to the project, please fork the repository and create a pull request.
