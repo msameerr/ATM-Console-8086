@@ -1,6 +1,38 @@
 # ✨ Atm Management System
-Developed an 8086 Assembly Language program in EMU8086 to verify user PIN codes, display total balances, and provide 
-transaction history. Enhanced transparency and usability for financial information access.
+
+The **ATM Management System** is a project developed using **8086 Assembly Language** in **EMU8086**. This system simulates basic ATM functionalities like verifying user PIN codes, displaying account balances, and providing transaction history, aimed at enhancing transparency and usability for financial information access.
+
+## Features
+
+- **PIN Code Verification**: 
+  - Users are prompted to enter their PIN, which is validated against a stored PIN.
+
+- **Balance Display**:
+  - Once authenticated, the system displays the total account balance.
+
+- **Transaction History**:
+  - Users can view a list of recent transactions, providing transparency for financial activities.
+
+## Technologies Used
+
+- **Assembly Language**: 8086
+- **EMU8086**: An emulator for 8086 microprocessor to run and test the assembly code.
+
+## Installation
+
+1. **Download EMU8086** from [here](https://emu8086-microprocessor-emulator.soft112.com/).
+
+2. **Clone the repository** or download the project files:
+   ```bash
+   git clone https://github.com/yourusername/atm-management-system.git
+
+## Contributing
+If you'd like to contribute to the project, please fork the repository and create a pull request.
+
+## License
+This project is licensed under the MIT License.
+You can customize this file based on any additional features or requirements in your project.
+
 
 ## Login Page
 ![1](https://github.com/user-attachments/assets/f472773f-d605-4bb2-a2f4-1aa56737230e)
