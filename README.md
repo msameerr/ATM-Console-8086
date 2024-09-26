@@ -1,4 +1,4 @@
-# ✨ Atm Management System
+# ✨ Atm Console 8086
 
 The **ATM Management System** is a project developed using **8086 Assembly Language** in **EMU8086**. This system simulates basic ATM functionalities like verifying user PIN codes, displaying account balances, and providing transaction history, aimed at enhancing transparency and usability for financial information access.
 
@@ -24,7 +24,7 @@ The **ATM Management System** is a project developed using **8086 Assembly Langu
 
 2. **Clone the repository** or download the project files:
    ```bash
-   git clone https://github.com/msameerr/ATM-Management-System.git
+   git clone https://github.com/msameerr/ATM-Console-8086.git
 
 ## Contributing
 If you'd like to contribute to the project, please fork the repository and create a pull request.
